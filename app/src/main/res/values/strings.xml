@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo ListView</string>
+    <string name="ivStar">TODO</string>
+    <string name="tvFoodName">TextView</string>
+</resources>
